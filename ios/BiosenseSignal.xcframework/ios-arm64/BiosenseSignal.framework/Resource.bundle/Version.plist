@@ -5,10 +5,10 @@
 	<key>StringsTable</key>
 	<string>Version</string>
 	<key>BIOFullSDKVersion</key>
-	<string>5.6.1.a648b315</string>
+	<string>5.6.3.3711715c</string>
 	<key>BIOVersion</key>
-	<string>5.6.1</string>
+	<string>5.6.3</string>
 	<key>BIOBuildNumber</key>
-	<string>8</string>
+	<string>1</string>
 </dict>
 </plist>
